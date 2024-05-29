@@ -10,5 +10,7 @@ You can add new gestures or functionalities or even edit the present functions b
 This project is only for learning concepts of openCV, Mediapipe and some more libraries. 
 
 ----------- Requirements ----------------------
+
 It will run on Python 8 due to the libraries.
-It will not run on the latest version for now.
+Note - It will not run on the latest version for now.
+You need a well lit room.
