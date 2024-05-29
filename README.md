@@ -5,7 +5,7 @@
   2. Control the volume
   3. Traversing over the taskbar (alt + esc)
 
-You can add new gestures or functionalities or even edit the present functions based on your preference and ease.
+<h2>You can add new gestures or functionalities or even edit the present functions based on your preference and ease.<h2>
 
 This project is only for learning concepts of openCV, Mediapipe and some more libraries. 
 
