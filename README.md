@@ -11,7 +11,7 @@ This project is only for learning concepts of openCV, Mediapipe and some more li
 
 The mouse works by detecting the hand landmarks and finger tips . The detection is done with the help of Google’s MediaPipe library. MediaPipe is a ML solution library , it provides the user with object detection , image detection , gesture detection and facial detection facilities. We also use OpenCV(CV2) for real time image processing and visualizing hand landmarks. Lastly we use the Pyautogui , a python automation library to map functionalities to every gesture.
 
-# Requirementa
+# Requirements
 These are the basic requirements which must be fulfilled in order to use the software features.  
   1. Webcam or inbuilt camera  
   2. Well-lit room
